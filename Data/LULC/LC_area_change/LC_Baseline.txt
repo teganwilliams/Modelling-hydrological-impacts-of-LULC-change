@@ -1,0 +1,11 @@
+LC	Full	SB	MB	ML	KM
+Grass	68	45	1	52	69
+NonNativeConifers	11	31	97	0	11
+Marshes	5	13	0	11	6
+MixedForest	5	1	1	0	4
+Shrubs	5	9	0	37	5
+Arable	2	0	0	0	2
+Urban	3	1	1	0	3
+Deciduous	1	0	0	0	0
+Water	1	0	0	0	0
+NativeConifers	0	0	0	0	0
