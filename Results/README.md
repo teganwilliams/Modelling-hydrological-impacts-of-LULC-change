@@ -1,3 +1,3 @@
-#### Results 
+## Results 
 
 Figure panels, and stats tables
